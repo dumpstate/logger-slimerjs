@@ -1,0 +1,13 @@
+{
+  "name": "logger-slimerjs",
+  "version": "0.1.0",
+  "description": "Simple logger for SlimerJS.",
+  "main": "logger.js",
+  "scripts": {},
+  "author": "albert <albert@evojam.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumpstate/logger-slimerjs.git"
+  },
+  "license": "MIT"
+}
